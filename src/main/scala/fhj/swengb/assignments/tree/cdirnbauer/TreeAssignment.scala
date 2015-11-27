@@ -1,4 +1,4 @@
-package fhj.swengb.assignments.tree.dirnbaue14
+package fhj.swengb.assignments.tree.cdirnbauer
 
 import javafx.scene.paint.Color
 import scala.util.Random

@@ -12,7 +12,7 @@ import javafx.scene.shape.{Line, StrokeType}
 import javafx.scene.{Parent, Scene}
 import javafx.stage.Stage
 
-import fhj.swengb.assignments.tree.dirnbaue14.{Pt2D, L2D, Graph}
+import fhj.swengb.assignments.tree.cdirnbauer.{Pt2D, L2D, Graph}
 
 import scala.collection.JavaConversions._
 import scala.util.control.NonFatal

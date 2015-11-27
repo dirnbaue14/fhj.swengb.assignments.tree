@@ -1,4 +1,4 @@
-package fhj.swengb.assignments.tree.dirnbaue14
+package fhj.swengb.assignments.tree.cdirnbauer
 
 import org.junit.Assert._
 import org.junit.Test
